@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lenincolares
 - 👀 I’m interested in learning everything related to C# .NET.
-- 🌱 I’m currently learning C#, SQL, HTML, CSS, Bootstrap, JavaScript, ASP.NET and Blazor
+- 🌱 I’m currently learning C#, SQL, HTML, CSS, Bootstrap, JavaScript, ASP.NET Core MVC
 - 💞️ I’m looking to collaborate on .NET projects.
 - 📫 Reach me on lenincolares@hotmail.com
 
